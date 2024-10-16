@@ -1,7 +1,7 @@
 Documentation du projet ENOB
 ===================================
 
-`Site Omeka S <https://bourgoin.ahp-numerique.fr/admin/site>`
+Guide de saisie pour l'alimentation du `site Omeka S <https://bourgoin.ahp-numerique.fr/admin/site>`_
 
 .. note::
 
