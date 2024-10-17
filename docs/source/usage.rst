@@ -5,7 +5,7 @@ Le site enob contient trois niveaux de contenus.
 
 #. La description des "entités intellectuelles" (item) auxquelles sont rattachées les numérisations du fonds de l'INHA (media) 
    #. La description pages des entités intellectuelles
-# Les références bibliographiques mobilisées par JB   
+#. Les références bibliographiques mobilisées par JB   
 
 
 .. _num:
