@@ -1,10 +1,17 @@
-Usage
-=====
+Alimentation 
+============
 
-.. _installation:
+Le site enob contient trois niveaux de contenus.
 
-Installation
-------------
+#. La description des "entités intellectuelles" (item) auxquelles sont rattachées les numérisations du fonds de l'INHA (media) 
+   #. La description pages des entités intellectuelles
+# Les références bibliographiques mobilisées par JB   
+
+
+.. _num:
+
+Ajout de nouvelles numérisations
+--------------------------------
 
 To use Lumache, first install it using pip:
 
