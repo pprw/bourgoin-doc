@@ -1,6 +1,6 @@
 Usage
 =====
-test
+
 .. _installation:
 
 Installation
