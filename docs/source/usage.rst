@@ -4,7 +4,7 @@ Alimentation
 Le site enob contient trois niveaux de contenus.
 
 #. La description des "entités intellectuelles" (item) auxquelles sont rattachées les numérisations du fonds de l'INHA (media) 
-   #. La description pages des entités intellectuelles
+#. La description pages des entités intellectuelles
 #. Les références bibliographiques mobilisées par JB   
 
 
@@ -13,29 +13,21 @@ Le site enob contient trois niveaux de contenus.
 Ajout de nouvelles numérisations
 --------------------------------
 
-To use Lumache, first install it using pip:
+Description des pages
+---------------------
 
-.. code-block:: console
+#. Se rendre dans "Ressources">contenus
+#. "Ajouter un nouveau" contenu en haut à droite
+#. Choisir le modèle de ressources "Pages des carnets ou des feuillets"
+#.
 
-   (.venv) $ pip install lumache
+.. image:: img/enob_ispartof.png
 
-Creating recipes
-----------------
+Ajout des références bibliographiques
+-------------------------------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+#. Choisir le modèle de ressources "Source scientifiques - Livre" ou "Source scientifiques - Article"
+#. Compléter les informations.
+#. Choisir le modèle de ressources "Source scientifiques - Livre" ou "Source scientifiques - Article"
+#. Compléter les informations.
 
